@@ -1,0 +1,14 @@
+/Users/rew/RiderProjects/Cw2/Cw2/bin/Debug/net10.0/Cw2
+/Users/rew/RiderProjects/Cw2/Cw2/bin/Debug/net10.0/Cw2.deps.json
+/Users/rew/RiderProjects/Cw2/Cw2/bin/Debug/net10.0/Cw2.runtimeconfig.json
+/Users/rew/RiderProjects/Cw2/Cw2/bin/Debug/net10.0/Cw2.dll
+/Users/rew/RiderProjects/Cw2/Cw2/bin/Debug/net10.0/Cw2.pdb
+/Users/rew/RiderProjects/Cw2/Cw2/obj/Debug/net10.0/Cw2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rew/RiderProjects/Cw2/Cw2/obj/Debug/net10.0/Cw2.AssemblyInfoInputs.cache
+/Users/rew/RiderProjects/Cw2/Cw2/obj/Debug/net10.0/Cw2.AssemblyInfo.cs
+/Users/rew/RiderProjects/Cw2/Cw2/obj/Debug/net10.0/Cw2.csproj.CoreCompileInputs.cache
+/Users/rew/RiderProjects/Cw2/Cw2/obj/Debug/net10.0/Cw2.dll
+/Users/rew/RiderProjects/Cw2/Cw2/obj/Debug/net10.0/refint/Cw2.dll
+/Users/rew/RiderProjects/Cw2/Cw2/obj/Debug/net10.0/Cw2.pdb
+/Users/rew/RiderProjects/Cw2/Cw2/obj/Debug/net10.0/Cw2.genruntimeconfig.cache
+/Users/rew/RiderProjects/Cw2/Cw2/obj/Debug/net10.0/ref/Cw2.dll
